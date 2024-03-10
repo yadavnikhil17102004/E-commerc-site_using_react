@@ -8,9 +8,11 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    transform: scale(1.5);
 }
 .nav-logo p{
-    color: red;
+    color: #eb423f;
+    font-family: cursive;
     font-size: 38px;
     font-weight: 600;
 }
@@ -71,4 +73,7 @@
     font-size: 14px;
     background-color: red;
     color: white;
+}
+.Link{
+    color: black;
 }
