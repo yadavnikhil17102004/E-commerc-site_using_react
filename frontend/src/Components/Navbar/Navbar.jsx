@@ -16,9 +16,9 @@ export const Navbar = () => {
         </div>
         <ul className='nav-menu'>
             <li onClick={()=>{setMenu("shop")}} ><Link style={{textDecoration:'none'}} to='/' >Shop</Link>{menu==="shop"?<hr/>:<></>}</li>
-            <li onClick={()=>{setMenu("men")}} ><Link style={{textDecoration:'none'}} to='/men' >Men</Link>{menu==="men"?<hr/>:<></>}</li>
-            <li onClick={()=>{setMenu("women")}} ><Link style={{textDecoration:'none'}} to='/women' >Women</Link>{menu==="women"?<hr/>:<></>}</li>
-            <li onClick={()=>{setMenu("kids")}} ><Link style={{textDecoration:'none'}} to='/kids' >Kids</Link>{menu==="kids"?<hr/>:<></>}</li>
+            <li onClick={()=>{setMenu("male")}} ><Link style={{textDecoration:'none'}} to='/male' >Male</Link>{menu==="male"?<hr/>:<></>}</li>
+            <li onClick={()=>{setMenu("female")}} ><Link style={{textDecoration:'none'}} to='/female' >Female</Link>{menu==="female"?<hr/>:<></>}</li>
+            <li onClick={()=>{setMenu("babies")}} ><Link style={{textDecoration:'none'}} to='/babies' >Babies</Link>{menu==="babies"?<hr/>:<></>}</li>
         </ul>
         <div className="nav-login-cart">
             <Link to='/login'>
