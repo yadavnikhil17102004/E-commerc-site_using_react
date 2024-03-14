@@ -1,9 +1,9 @@
-import p1_img from './product_1.jpg'
-import p2_img from './product_2.jpg'
-import p3_img from './product_3.jpg'
-import p4_img from './product_4.jpg'
+import p1_img from './pet_1.jpg'
+import p2_img from './pet_2.jpg'
+import p3_img from './pet_3.jpg'
+import p4_img from './pet_4.jpg'
 
-let data_product = [
+let data_pet = [
   {
     id:1,
     name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
@@ -31,4 +31,4 @@ let data_product = [
   },
 ];
 
-export default data_product;
+export default data_pet;
