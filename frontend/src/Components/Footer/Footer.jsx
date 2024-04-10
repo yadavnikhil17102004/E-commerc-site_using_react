@@ -13,8 +13,7 @@ const Footer = () => {
             <p>BOKI</p>
         </div>
         <ul className="footer-links">
-            <li>Company</li>
-            <li>Product</li>
+            <li>Vets</li>
             <li>Offices</li>
             <li>About</li>
             <li>Contact</li>
