@@ -10,18 +10,18 @@ import p9_img from "./pet_9.jpg";
 import p10_img from "./pet_10.jpg";
 import p11_img from "./pet_11.jpg";
 import p12_img from "./pet_12.jpg";
-import p13_img from "./pet_13.jpg";
-import p14_img from "./pet_14.jpg";
-import p15_img from "./pet_15.jpg";
-import p16_img from "./pet_16.jpg";
-import p17_img from "./pet_17.jpg";
-import p18_img from "./pet_18.jpg";
-import p19_img from "./pet_19.jpg";
-import p20_img from "./pet_20.jpg";
-import p21_img from "./pet_21.jpg";
-import p22_img from "./pet_22.jpg";
-import p23_img from "./pet_23.jpg";
-import p24_img from "./pet_24.jpg";
+import p13_img from "./pet_13.jpeg";
+import p14_img from "./pet_14.jpeg";
+import p15_img from "./pet_15.jpeg";
+import p16_img from "./pet_16.jpeg";
+import p17_img from "./pet_17.jpeg";
+import p18_img from "./pet_18.jpeg";
+import p19_img from "./pet_19.jpeg";
+import p20_img from "./pet_20.jpeg";
+import p21_img from "./pet_21.jpeg";
+import p22_img from "./pet_22.jpeg";
+import p23_img from "./pet_23.jpeg";
+import p24_img from "./pet_24.jpeg";
 import p25_img from "./pet_25.jpg";
 import p26_img from "./pet_26.jpg";
 import p27_img from "./pet_27.jpg";
@@ -38,7 +38,7 @@ import p36_img from "./pet_36.jpg";
 let all_pet = [
   {
     id: 1,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Stripey: Adventurous tabby with greenish eyes, loves chasing toys and sunlit spots.",
     category: "cats",
     image: p1_img,
     new_price: 50.0,
@@ -46,7 +46,7 @@ let all_pet = [
   },
   {
     id: 2,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Whisker: Elegant tabby with delicate stripes, enjoys gentle pets and curling up in cozy blankets.",
     category: "cats",
     image: p2_img,
     new_price: 85.0,
@@ -54,7 +54,7 @@ let all_pet = [
   },
   {
     id: 3,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Luna: Elegant silver tabby with graceful stripes, loves lounging in the moonlight and playing with feather toys.",
     category: "cats",
     image: p3_img,
     new_price: 60.0,
@@ -62,7 +62,7 @@ let all_pet = [
   },
   {
     id: 4,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Willow: Gentle grey tabby with soft stripes, adores cuddling in cozy blankets and exploring quiet hideaways.",
     category: "cats",
     image: p4_img,
     new_price: 100.0,
@@ -70,7 +70,7 @@ let all_pet = [
   },
   {
     id: 5,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Ember: Fiery orange tabby with striking stripes, has a playful personality and enjoys chasing laser pointers.",
     category: "cats",
     image: p5_img,
     new_price: 85.0,
@@ -78,7 +78,7 @@ let all_pet = [
   },
   {
     id: 6,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Jasper: Handsome brown tabby with bold stripes, enjoys basking in the sun and chasing after crinkly balls.",
     category: "cats",
     image: p6_img,
     new_price: 85.0,
@@ -86,7 +86,7 @@ let all_pet = [
   },
   {
     id: 7,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Leo: Regal orange tabby with vibrant stripes, loves sunbathing by the window and receiving chin scratches.",
     category: "cats",
     image: p7_img,
     new_price: 85.0,
@@ -94,7 +94,7 @@ let all_pet = [
   },
   {
     id: 8,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Max: Handsome brown tabby with thick stripes, loves exploring outdoor gardens and cuddling up for afternoon naps.",
     category: "cats",
     image: p8_img,
     new_price: 85.0,
@@ -102,7 +102,7 @@ let all_pet = [
   },
   {
     id: 9,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Whisper: Delicate grey tabby with faint stripes, prefers quiet corners and gentle pets, a shy soul longing for a patient and loving home.",
     category: "cats",
     image: p9_img,
     new_price: 85.0,
@@ -110,7 +110,7 @@ let all_pet = [
   },
   {
     id: 10,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Sunny: Cheerful orange tabby with bright stripes, always wearing a smile and eager to play, spreads joy wherever they go.",
     category: "cats",
     image: p10_img,
     new_price: 85.0,
@@ -118,7 +118,7 @@ let all_pet = [
   },
   {
     id: 11,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Fluffy: Endearing white Persian with a carefree disposition, sporting a perpetually ruffled coat and an irresistible charm.",
     category: "cats",
     image: p11_img,
     new_price: 85.0,
@@ -126,7 +126,7 @@ let all_pet = [
   },
   {
     id: 12,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Rocky: Striking black and silver tabby with a confident stance and piercing eyes, exuding an air of strength and independence.",
     category: "cats",
     image: p12_img,
     new_price: 85.0,
