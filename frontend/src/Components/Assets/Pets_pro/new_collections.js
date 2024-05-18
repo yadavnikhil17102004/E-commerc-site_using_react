@@ -1,11 +1,11 @@
-import p5_img from "./pet_5.jpg";
-import p6_img from "./pet_6.jpg";
-import p7_img from "./pet_7.jpg";
-import p8_img from "./pet_8.jpg";
-import p9_img from "./pet_9.jpg";
-import p10_img from "./pet_10.jpg";
-import p11_img from "./pet_11.jpg";
-import p12_img from "./pet_12.jpg";
+import p5_img from "./Pet_pro_5.jpg";
+import p6_img from "./Pet_pro_6.jpg";
+import p7_img from "./Pet_pro_7.jpg";
+import p8_img from "./Pet_pro_8.jpg";
+import p9_img from "./Pet_pro_9.jpg";
+import p10_img from "./Pet_pro_10.jpg";
+import p11_img from "./Pet_pro_11.jpg";
+import p12_img from "./Pet_pro_12.jpg";
 
 let new_collections = [
   {
@@ -15,6 +15,7 @@ let new_collections = [
     image: p5_img,
     new_price: 85.0,
     old_price: 120.5,
+    age: 2
   },
   {
     id: 6,
@@ -23,6 +24,7 @@ let new_collections = [
     image: p6_img,
     new_price: 85.0,
     old_price: 120.5,
+    age: 3
   },
   {
     id: 7,
@@ -31,6 +33,7 @@ let new_collections = [
     image: p7_img,
     new_price: 85.0,
     old_price: 120.5,
+    age: 1
   },
   {
     id: 8,
@@ -39,14 +42,16 @@ let new_collections = [
     image: p8_img,
     new_price: 85.0,
     old_price: 120.5,
+    age: 4
   },
   {
     id: 9,
-    name: "Whisper: Delicate grey tabby with faint stripes, prefers quiet corners and gentle pets, a shy soul longing for a patient and loving home.",
+    name: "Whisper: Delicate grey tabby with faint stripes, prefers quiet corners and gentle Pet_pros, a shy soul longing for a patient and loving home.",
     category: "cats",
     image: p9_img,
     new_price: 85.0,
     old_price: 120.5,
+    age: 2
   },
   {
     id: 10,
@@ -55,14 +60,16 @@ let new_collections = [
     image: p10_img,
     new_price: 85.0,
     old_price: 120.5,
+    age: 3
   },
   {
     id: 11,
-    name: "Fluffy: Endearing white Persian with a carefree disposition, sporting a perpetually ruffled coat and an irresistible charm.",
+    name: "Fluffy: Endearing white Persian with a carefree disposition, sporting a perPet_proually ruffled coat and an irresistible charm.",
     category: "cats",
     image: p11_img,
     new_price: 85.0,
     old_price: 120.5,
+    age: 1
   },
   {
     id: 12,
@@ -71,6 +78,7 @@ let new_collections = [
     image: p12_img,
     new_price: 85.0,
     old_price: 120.5,
+    age: 4
   },
 ];
 
